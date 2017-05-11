@@ -1,0 +1,17 @@
+{
+  "name": "daxidz",
+  "version": "1.0.0",
+  "description": "Use your smartphone as a keyboard for your PC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Truan",
+  "license": "ISC",
+  "dependencies": {
+    "dgram": "^1.0.1",
+    "keycode": "^2.1.9",
+    "net": "^1.0.2",
+    "robotjs": "faku99/robotjs"
+  }
+}
